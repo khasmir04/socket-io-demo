@@ -108,8 +108,7 @@ Table of Contents
 
 ## About The Project
 
-[Product Name Screen Shot][product-screenshot]
-
+[![Product Name Screen Shot][product-screenshot]](https://github.com/khasmir04/socket-io-demo)
 This is a simple project to showcase the power of Socket IO in building realtime applications.
 
 ### Built With
